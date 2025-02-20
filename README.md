@@ -1,7 +1,6 @@
 # MolMerger Solubility Prediction
 
-![MolMerger Pipeline](https://ibb.co/S4KPcr34)
-
+![MolMerger Pipeline](https://i.ibb.co/wFKR7szF/image.png)
 ## Overview
 This repository contains the implementation of *MolMerger*, a Graph Neural Network (GNN)-based approach for predicting solubility in diverse solvents by incorporating explicit solute-solvent interactions. The method is described in the paper:
 
